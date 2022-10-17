@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  GitRepos
+
+  Created by Mindaugas Balakauskas on 16/10/2022.
+  
+*/
+
+"list_screen_title" = "Repositories";
