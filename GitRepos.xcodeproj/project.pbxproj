@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		486FB98A28FD583E007EF040 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 486FB98928FD583E007EF040 /* AppDelegate.swift */; };
 		486FB98C28FD583E007EF040 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 486FB98B28FD583E007EF040 /* SceneDelegate.swift */; };
-		486FB98E28FD583E007EF040 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 486FB98D28FD583E007EF040 /* ViewController.swift */; };
 		486FB99128FD583E007EF040 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 486FB98F28FD583E007EF040 /* Main.storyboard */; };
 		486FB99428FD583E007EF040 /* GitRepos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 486FB99228FD583E007EF040 /* GitRepos.xcdatamodeld */; };
 		486FB99628FD5840007EF040 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 486FB99528FD5840007EF040 /* Assets.xcassets */; };
@@ -40,7 +39,6 @@
 		486FB98628FD583E007EF040 /* GitRepos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitRepos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		486FB98928FD583E007EF040 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		486FB98B28FD583E007EF040 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		486FB98D28FD583E007EF040 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		486FB99028FD583E007EF040 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		486FB99328FD583E007EF040 /* GitRepos.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = GitRepos.xcdatamodel; sourceTree = "<group>"; };
 		486FB99528FD5840007EF040 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -103,7 +101,6 @@
 			children = (
 				486FB98928FD583E007EF040 /* AppDelegate.swift */,
 				486FB98B28FD583E007EF040 /* SceneDelegate.swift */,
-				486FB98D28FD583E007EF040 /* ViewController.swift */,
 				486FB98F28FD583E007EF040 /* Main.storyboard */,
 				486FB99528FD5840007EF040 /* Assets.xcassets */,
 				486FB99728FD5840007EF040 /* LaunchScreen.storyboard */,
@@ -261,7 +258,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				486FB98E28FD583E007EF040 /* ViewController.swift in Sources */,
 				486FB98A28FD583E007EF040 /* AppDelegate.swift in Sources */,
 				486FB99428FD583E007EF040 /* GitRepos.xcdatamodeld in Sources */,
 				486FB98C28FD583E007EF040 /* SceneDelegate.swift in Sources */,
