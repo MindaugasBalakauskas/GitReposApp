@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  GitRepos
 //
-//  Created by Mindaugas Balakauskas on 17/10/2022.
+//  Created by Mindaugas Balakauskas on 16/10/2022.
 //
 
 import UIKit
