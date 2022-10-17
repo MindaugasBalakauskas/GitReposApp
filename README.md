@@ -189,4 +189,4 @@ WIP ...
 
 ## Author
 
-Mindagus 
+Mindaugas Balakauskas 

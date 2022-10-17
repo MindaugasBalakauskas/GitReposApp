@@ -2,7 +2,7 @@
 //  GitHubRepository.swift
 //  GitRepos
 //
-//  Created by Mindagus on 11/04/2022.
+//  Created by Mindagus on 16/10/2022.
 //
 
 import Foundation
