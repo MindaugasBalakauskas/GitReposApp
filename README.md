@@ -175,17 +175,10 @@ open class ApiTask: ApiProtocol {
  
 * used fakeApiTask class to input this class to mock api  behaviour 
 
-### Xcode Template ( xctemplate )
-
-WIP ...
-
 ## Requirements
 
 - Xcode 13.0+
 - Swift 5.2+
-
-## Installation
-
 
 ## Author
 
