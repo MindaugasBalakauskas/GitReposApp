@@ -173,7 +173,8 @@ open class ApiTask: ApiProtocol {
 
 ### Unit Test 
  
-* used fakeApiTask class to input this class to mock api  behaviour 
+* Used XCTest framework
+* Created fakeApiTask class to input this class to mock api behaviour 
 
 ## Requirements
 
